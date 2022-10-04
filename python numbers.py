@@ -79,7 +79,7 @@ print (type(num20))
 
 num21 = float('5') #converting +ve int string to float
 print (num21)
-print (type(num21))
+print (type(num21)) 
 
 num22 = float('          -5')#converting string with spaces and int to float
 print (num22)
@@ -100,6 +100,7 @@ print (type(num25))
 #ARITHMETIC
 num26 = 1500
 num27 = 20
+
 print (num26+num27) #adding num26 and num27
 print (num26-num27) #subtraction
 print (num26*num27) #MULTIPLICATION

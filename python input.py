@@ -1,3 +1,3 @@
 print('please enter your first name')
-firstname = input('fadesola')
+firstname = input('')
 print('welcome', firstname)
